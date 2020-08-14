@@ -1,13 +1,13 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
+# Day1 with AWS lamda
 
-## Cloud Research
+## Serverless
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+I tried AWS Lambda for the first time today, was able to run Hello, World via a lambda function severlessly.
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[twitter](https://twitter.com/martynzYoung/status/1294204010174521347)
