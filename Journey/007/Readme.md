@@ -1,4 +1,4 @@
-# Day6 Of My Severless Journey
+# Day7 Of My Severless Journey
 
 ## Introduction
 
