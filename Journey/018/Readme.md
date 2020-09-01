@@ -10,4 +10,4 @@ Amazon DynamoDB a NoSQL database.
  -DynamoDB supports ACID transactions to enable you to build business-critical applications at scale. DynamoDB encrypts all data by default and provides fine-grained identity and access control on all your tables. You can create full backups of hundreds of terabytes of data instantly with no performance impact to your tables, and recover to any point in time in the preceding 35 days with no downtime. DynamoDB is also backed by a service level agreement for guaranteed availability.
 
 
- [Tweet](https://https://https://twitter.com/martynzYoung/status/1300476994317160455)
+ [Tweet](https://twitter.com/martynzYoung/status/1300476994317160455)
