@@ -10,4 +10,4 @@ build my first modern application on AWS. Modern applications isolate business l
  - will be creating and deploying changes to this application completely programmatically. You will use the AWS Command Line Interface to execute commands that create the required infrastructure components, which includes a fully managed CI/CD stack utilizing AWS CodeCommit, CodeBuild, and CodePipeline. Finally, you will complete the development tasks required all within your own browser using the cloud-based IDE, AWS Cloud9.
 
 
-[Tweet](https://https://twitter.com/martynzYoung/status/1300162231578095617)
+[Tweet](https://twitter.com/martynzYoung/status/1300162231578095617)
