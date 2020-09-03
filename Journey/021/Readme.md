@@ -1,52 +1,16 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Day21 Of My Severles Journey
 
 ## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Design a database for a mobile app with Amazon DynamoDB.
 
 ## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+ - learned advanced data modeling patterns in Amazon DynamoDB while building a DynamoDB-backed mobile application. When using DynamoDB, it is important to consider how you will access your data (your access patterns) before you model your data.
 
 ## Cloud Research
+ - Some of the key reasons to use DynamoDB for your mobile application are:
+ - Scalability: DynamoDB has no performance degradation as you scale to terabytes of data and beyond.
+ - A simple, REST-based API: DynamoDB is accessible over HTTP(S) and uses AWS Identity and Access Management (IAM) for authentication.
+ - Fully-managed: You don’t need to manage servers and apply patches to infrastructure. DynamoDB handles upgrades, backups, and other administrative tasks so that you can focus on developing your application.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+ [Tweet](https://twitter.com/martynzYoung/status/1301611207510634496)
