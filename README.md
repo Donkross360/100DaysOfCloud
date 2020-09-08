@@ -57,7 +57,7 @@ I want to know as much as possible an also be able to undertake some major certi
 - [ ] ☁️ 23 > [My Twentythird Day](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [My Twentyfourth Day](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [My Twentyfifth Day](Journey/025/Readme.md)
-- [ ] ☁️ 26 > [](Journey/026/Readme.md)
+- [ ] ☁️ 26 > [My Twentysixth Day](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
