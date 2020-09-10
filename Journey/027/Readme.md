@@ -1,52 +1,19 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Day27 Of My Severles Journey
 
 ## Introduction
+ Modeling Game Player Data with Amazon DynamoDB.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
 ## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+ - Advanced data modeling patterns in Amazon DynamoDB. When using DynamoDB, it is important to consider how you will access your data (your access patterns) before you model your data.
 
 ## Cloud Research
+ - DynamoDB is a popular database service for games because it is designed for high-scale use cases where consistent performance is critical as an application grows.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+ - Some of the key reasons to use DynamoDB for your game are:
+ - Scalability: DynamoDB scales to more than 100 TB with no performance degradation.
+ - A simple REST-based API: DynamoDB is accessible over HTTP(S) and uses AWS Identity and Access Management (IAM) for authentication.
+ - Fully managed: You don’t need to manage servers and apply patches to infrastructure. DynamoDB handles upgrades, backups, and other administrative tasks so that you can focus on developing your game.
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+ [Tweet](https://twitter.com/martynzYoung/status/1303892545123033089)
