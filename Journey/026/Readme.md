@@ -3,8 +3,6 @@
 ## Introduction
  How to build a multiplayer, turn-based game using Amazon DynamoDB and Amazon Simple Notification Service (Amazon SNS).
 
-
-
 ## Use Case
  - Deployed a multiplyer App using DynamoDB, AWS Node.js SDK, SNS for SMS messaging to alert users of important events, Cognito for user registration & authentication, API Gateway for HTTP-based access to Lambda function.
 
