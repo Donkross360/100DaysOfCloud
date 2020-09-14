@@ -66,7 +66,7 @@ I want to know as much as possible an also be able to undertake some major certi
 ## Into the bushy, thorny forest
 
 - [ ] ☁️ 31 > [My Thirtyfirst Day](Journey/031/Readme.md)
-- [ ] ☁️ 32 > [](Journey/032/Readme.md)
+- [ ] ☁️ 32 > [My Thirtysecond Day](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
