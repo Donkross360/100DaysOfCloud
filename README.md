@@ -68,7 +68,7 @@ I want to know as much as possible an also be able to undertake some major certi
 - [ ] ☁️ 31 > [My Thirtyfirst Day](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [My Thirtysecond Day](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [My Thirtythird Day](Journey/033/Readme.md)
-- [ ] ☁️ 34 > [My Thirtyforth Day](Journey/034/Readme.md)
+- [ ] ☁️ 34 > [My Thirtyfourth Day](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [My Thirtyfifth Day](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [](Journey/036/Readme.md)
 - [ ] ☁️ 37 > [](Journey/037/Readme.md)
