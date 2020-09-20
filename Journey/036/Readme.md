@@ -1,52 +1,17 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Day36 Of My Severles Journey
 
 ## Introduction
+  Studied this WhitePaper :  Best Practices for VPCs and Networking in Amazon WorkSpaces Deployments - July 2020.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
 ## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+ - Amazon WorkSpace is a cloud-based virtual desktop that can act as a replacement for a traditional desktop.
 
 ## Cloud Research
+ - Amazon WorkSpaces is a managed, secure cloud desktop service. Proper network configuration is essential to the successful implementation and ongoing operations of a WorkSpaces environment. As an End User Computing (EUC) service, any variation to the end user’s experience when interacting with a WorkSpaces instance is very visible and can result in a loss of workforce productivity—especially if network connectivity has not been designed in accordance with best practices.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## DOC: 
+ - https://d1.awsstatic.com/whitepapers/best-practices-vpcs-networking-amazon-workspaces-deployments.pdf?did=wp_card&trk=wp_card
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+ [Tweet](https://twitter.com/martynzYoung/status/1307224462849441793)
